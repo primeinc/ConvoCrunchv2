@@ -1,0 +1,14 @@
+{
+    "cSpell.words": [
+        "astype",
+        "dests",
+        "nltk",
+        "prunerr",
+        "pytextrank",
+        "spacy",
+        "Spacy",
+        "textblob",
+        "textrank"
+    ],
+    "python.analysis.typeCheckingMode": "basic"
+}
